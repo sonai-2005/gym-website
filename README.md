@@ -1,1 +1,1 @@
-# gym-website
+# gym-website for practicing purpose
